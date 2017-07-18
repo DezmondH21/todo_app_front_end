@@ -20,3 +20,8 @@ html{
 #submit-button:active{
     box-shadow:1px 1px 1px #90A4AE;
 }
+
+li{
+    padding:5px;
+    margin-bottom:10px;
+}
