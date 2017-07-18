@@ -2,11 +2,21 @@ html{
     font-family:sans-serif;
     color:blue;
 }
+
 .todo{
     font-weight:bold;
     color:#F44336;
-    background-color:#F5F5F5;
+    background-color:#191970;
     border-radius:50px;
     font-size:14px;
     padding:5px 10px 5px 10px;
+}
+
+#submit-button{
+    font-size:14px;
+    
+}
+
+#submit-button:active{
+    box-shadow:1px 1px 1px #90A4AE;
 }
