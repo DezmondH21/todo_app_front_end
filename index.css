@@ -12,13 +12,9 @@ html{
     padding:5px 10px 5px 10px;
 }
 
-#submit-button{
-    font-size:14px;
-    
-}
-
 #submit-button:active{
     box-shadow:1px 1px 1px #90A4AE;
+    font-size:14px;
 }
 
 li{
