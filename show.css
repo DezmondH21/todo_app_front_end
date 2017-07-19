@@ -6,3 +6,8 @@ h1{
   font-size:32px;
   margin:20px;
 }
+
+body{
+  background: url(http://goldwallpapers.com/uploads/posts/michael-vick-wallpaper/michael_vick_wallpaper_004.jpg);
+  background-size: cover
+}
