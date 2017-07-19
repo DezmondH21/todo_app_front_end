@@ -1,5 +1,5 @@
 h1{
-  background-color:#F1C40F;
+  background-color:#ffffff;
   display:inline-block;
   height:71px;
   vertical-align:middle;
@@ -7,7 +7,7 @@ h1{
   margin:20px;
 }
 
-body{
+.showbody{
   background: url(http://goldwallpapers.com/uploads/posts/michael-vick-wallpaper/michael_vick_wallpaper_004.jpg);
   background-size: cover
 }
